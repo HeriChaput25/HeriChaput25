@@ -1,3 +1,3 @@
 - 👋 Meu nome é @HeriChaput25
 - 👀 Estou começando um curso de programação
-- 🌱 Nível básico em Javascript e 
+- 🌱 Nível básico em Javascript
